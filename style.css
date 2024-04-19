@@ -67,13 +67,8 @@ section {
   margin-right: 20px;
   margin-bottom: 20px;
   display: flex;
-  flex-direction: row;
 }
 
 .column-inner {
   flex: 1;
-}
-
-.column img {
-  width: 100%;
 }
