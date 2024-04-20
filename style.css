@@ -17,6 +17,7 @@ body {
   margin-top: 20px;
   background: url(https://ps-curriculum-images.s3.amazonaws.com/durm-life-background.jpg)
     no-repeat center fixed;
+  width: 100%;
   background-size: cover;
   position: relative;
   height: 700px;
